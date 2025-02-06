@@ -31,8 +31,10 @@ Install the required Python packages:
 `pip install -r requirements.txt`
 
 Create Open AI API key from `https://platform.openai.com/settings/organization/api-keys`
+
 Create ChatGroq API key from `https://console.groq.com/keys` 
-paste the API key in the .env file in the root directory of the project with the following contents:
+
+paste these API keys in the .env file in the root directory of the project with the following contents:
 
 OPENAI_API_KEY= "paste open AI API Key"
 GROQ_API_KEY= "paste chat groq AI API Key"
