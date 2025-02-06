@@ -37,10 +37,11 @@ Create ChatGroq API key from `https://console.groq.com/keys`
 paste these API keys in the .env file in the root directory of the project with the following contents:
 
 OPENAI_API_KEY= "paste open AI API Key"
+
 GROQ_API_KEY= "paste chat groq AI API Key"
 
 Run the Streamlit app:
 
-`streamlit run app.py`
+`streamlit run app1.py`
 
 
